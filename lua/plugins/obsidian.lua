@@ -26,10 +26,6 @@ return {
         name = "spanish-notes",
         path = "~/Documents/Obsidian/spanish-notes/",
       },
-      {
-        name = "photography-notes",
-        path = "~/Documents/Obsidian/photography-notes/",
-      },
     },
 
     -- see below for full list of options 👇
